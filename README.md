@@ -1,7 +1,7 @@
 # Hi, I'm Liliana Cedeño Gamardo! 👋
 
-Bienvenido a mi GitHub. Soy profesional en informática, con formación en tecnología y en el desarrollo Full Stack Javay,
-me encanta el desarrollo de software. Me considero una persona autodidacta, adaptable y orientada a ofrecer soluciones que 
+Bienvenido a mi GitHub. Soy profesional en informática, con formación en tecnología y en el desarrollo Full Stack Java,
+me encanta el desarrollo de software y la gestion de proyectos. Me considero una persona autodidacta, adaptable y orientada a ofrecer soluciones que 
 permitan optimizarar los resultados de los proyectos en los que participo.
 
 ## About Me
@@ -41,6 +41,7 @@ Me encantaría conectarme contigo. Puedes encontrarme en:
 - Liderazgo Efectivo
 - Ciencia y Análisis de Datos
 - Design Thinking
+- Gestión de Proyectos con Metodologías Ágiles- Enfoques Lean / Scrum
 
 ## Languages
 - **Inglés**: Técnico
